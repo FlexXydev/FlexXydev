@@ -9,3 +9,7 @@
 <img src="https://th.bing.com/th/id/OIP.9zN9M5IW0FwVUWiO-xOoMAHaHa?w=161&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="32" height="32" alt="NodeJS" />
 <img src="https://th.bing.com/th/id/OIP.CYpqc79M1jl94xw__TzDiQHaHa?w=218&h=218&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="32" height="32" alt="Python" />
 </p>
+
+<h2 align="center">Status</h2>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/310107091542999040)](https://discord.com/users/310107091542999040)
