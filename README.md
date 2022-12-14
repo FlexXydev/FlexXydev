@@ -12,4 +12,6 @@
 
 <h2 align="center">Status</h2>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/310107091542999040)](https://discord.com/users/310107091542999040)
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/310107091542999040"/>
+</p>
