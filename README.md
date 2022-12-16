@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm FlexXyDev</h1>
 
-<h2 align="center">I'am intrested by front-end and DiscordJS bot</h2>
+<h2 align="center">I'am intrested by front/back-end and DiscordJS bot</h2>
 
 <p align="center">
 <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="32" height="32" alt="HTML"/>
@@ -14,4 +14,12 @@
 
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/310107091542999040"/>
+</p>
+
+# My projects
+Devlopper of Saturn Discord Bot
+
+https://discord.com/api/oauth2/authorize?client_id=945224613057683516&permissions=8&scope=bot
+<p align="center">
+  
 </p>
