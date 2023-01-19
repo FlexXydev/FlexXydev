@@ -23,7 +23,7 @@ https://discord.gg/GvtNRDAZDa
 <h2 align="center">More about me</h2>
 
 Hi,
-Im FlexXy, a French/Tunisian devlopper (Yes I from Bagette Land<img src="https://th.bing.com/th/id/R.60d6d17d7c04a8aa2ed3deb09a9dfdc6?rik=cQFK0jv%2fNIShsA&riu=http%3a%2f%2fcdn.shopify.com%2fs%2ffiles%2f1%2f1061%2f1924%2fproducts%2fSkull_Emoji_Icon_8cee31f2-35dd-42e7-b757-3cb8cfe72437_grande.png%3fv%3d1571606093&ehk=STBcknoIrvOekmxRws6YHjkk%2fh7RZCKIcdOPHHzjNp4%3d&risl=&pid=ImgRaw&r=0" width="20" height="20" alt="skull"/>.). My first project is a discord bot with a mySQL db to stock config data like a ticket channel and this bot is made with a docker. This bot is my real first project. Now he is in beta so I self hosted it
+Im FlexXy, a French/Tunisian devlopper. My first project is a discord bot with a mySQL db to stock config data like a ticket channel and this bot is made with a docker. This bot is my real first project. Now he is in beta so I self hosted it
 
 <h2 align="center">Status</h2>
 
