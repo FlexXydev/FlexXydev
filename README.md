@@ -17,7 +17,8 @@ Invite to your server:
 https://discord.com/api/oauth2/authorize?client_id=945224613057683516&permissions=8&scope=bot
 
 Discord Server Support:
-https://discord.gg/GvtNRDAZDa
+https://discord.gg/ndJyxZs3sF
+
 <p align="center">
   
 <h2 align="center">More about me</h2>
