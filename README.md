@@ -14,10 +14,10 @@
 Devlopper of Saturn Discord Bot
 
 Invite to your server:
-https://discord.com/api/oauth2/authorize?client_id=945224613057683516&permissions=8&scope=bot
+https://dsc.gg/addsaturn
 
 Discord Server Support:
-https://discord.gg/ndJyxZs3sF
+https://dsc.gg/saturnbotserver
 
 <p align="center">
   
