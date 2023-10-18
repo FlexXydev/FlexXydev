@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a twitter bot that tweets when a rapper release a song<br>🤝 I’m looking for help with python<br>🌱 I’m currently learning linux & python
+🔭 I’m currently working on a twitter bot that tweets when a rapper release a song<br>🤝 I’m looking for help with python<br>🌱 I’m currently learning linux & python<br>🏢 I am the CEO & Developper @FlexXyCorp
 
 
 ## 🌐 Socials:
